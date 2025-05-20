@@ -1,0 +1,6 @@
+[submodule "storex-webapp-storefront"]
+	path = storex-webapp-storefront
+	url = git@github.com:devswork-hub/storex-webapp-storefront.git
+[submodule "storex-hybrid-app-storefront"]
+	path = storex-hybrid-app-storefront
+	url = git@github.com:devswork-hub/storex-hybrid-app-storefront.git
